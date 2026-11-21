@@ -1,0 +1,28 @@
+# Virtual environment - NEVER commit it
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Local database and logs (created on first run)
+*.db
+*.sqlite3
+*.log
+
+# Build output
+build/
+dist/
+*.spec
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test folders with sample files
+TestDownloads/
