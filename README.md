@@ -26,10 +26,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Тесты
+## Что нужно скачать для запуска
 ```
 pip install -r requirements-dev.txt
-python -m pytest
 ```
 
 ## Сборка SOLTI.exe и ярлык на рабочем столе
